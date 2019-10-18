@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 root = true
 
 [*]
@@ -10,4 +11,18 @@ insert_final_newline = true
 tab_width = 2
 
 [*.md]
+=======
+root = true
+
+[*]
+charset = utf-8
+indent_size = 2
+indent_style = space
+end_of_line = lf
+trim_trailing_whitespace = true
+insert_final_newline = true
+tab_width = 2
+
+[*.md]
+>>>>>>> 2d girl
 trim_trailing_whitespace = false
